@@ -1,7 +1,14 @@
 - 👋 Hi, I’m @usmaandar1
-- 👀 I’m interested in data analytics and data science
-- 🌱 I’m currently learning data analytics in a bootcamp and from projects on GitHub
-- 💞️ I’m looking to collaborate on any and all kinds of projects
+  
+- 👀 I am an enterprising Law LLM LPC postgraduate pursuing early career opportunities within the
+technology sector; in particular, I am strongly inclined towards the intersection between technology,
+and the public sector, as this provides a notable opportunity for enhancing public services and
+addressing pressing societal challenges. Eager to leverage my legal background and years of
+experience within the civil sector to navigate the complexities of the tech landscape, I am dedicated
+to applying my distinctive skill set to propel advancements within this rapidly evolving industry. I
+firmly believe that the technical skills I am acquiring through my participation in an extensive
+Data Analyst bootcamp will prove exceptionally valuable in the realm of technology-related roles
+
 - ⚡ Fun fact: Every male member of my family (on my dad's side) are serving or have served in the military.
 
 <!---
